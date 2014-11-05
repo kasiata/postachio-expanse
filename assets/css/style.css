@@ -60,7 +60,7 @@ a:hover {
   float: right;
 }
 body {
-  font-size: 80%;
+  font-size: 90%;
   font-family: 'Roboto', helvetica, arial, sans-serif;
   color: #0e3029;
   line-height: 1.5rem;
@@ -266,15 +266,15 @@ header img.rainbow {
 }
 header h1 {
   font-family: 'Roboto';
-  font-weight: 700;
+  font-weight: 500;
   text-transform: uppercase;
-  font-size: 1.75rem;
+  font-size: 1.45rem;
   color: #ffffff;
   float: left;
   width: 50%;
   margin: 0;
   padding: 0;
-  line-height: 1.75rem;
+  line-height: 1.45rem;
 }
 header h1 a {
   color: #ffffff;
