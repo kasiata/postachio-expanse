@@ -266,15 +266,15 @@ header img.rainbow {
 }
 header h1 {
   font-family: 'Roboto';
-  font-weight: 500;
+  font-weight: 400;
   text-transform: uppercase;
-  font-size: 1.45rem;
+  font-size: 1.25rem;
   color: #ffffff;
   float: left;
   width: 50%;
   margin: 0;
   padding: 0;
-  line-height: 1.45rem;
+  line-height: 1.25rem;
 }
 header h1 a {
   color: #ffffff;
@@ -660,7 +660,7 @@ a.btn.btn-mini:hover {
   text-decoration: underline;
 }
 .post h1 {
-  padding: 0 0 50px 0;
+  padding: 0 0 40px 0;
   margin: 0;
 }
 .post h2,
@@ -1019,7 +1019,7 @@ div.posts div.item .post-content ol li {
   list-style-type: decimal;
 }
 div.posts div.item .post-content h1 {
-  padding-bottom: 15px;
+  padding-bottom: 10px;
 }
 div.posts div.item .post-content h2,
 div.posts div.item .post-content h3 {
