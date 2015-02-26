@@ -135,7 +135,7 @@
                   {% if post.author %}
                  
                   {% endif %}
-                  <span class="post-date">Posted on {{ post.created_at|format_date }}</span>
+                  <span class="post-date">{{ post.created_at|format_date }}</span>
                 
               <h3><a href="{{ post.permalink }}">{{ post.title }}</a></h3>
               <div class="post-content" data-type-cleanup="true">
@@ -178,7 +178,7 @@
         {% endif %}
         <div class="post-footer">
           
-              <span class="post-date">Posted on {{ post.created_at|format_date }}</span>
+              <span class="post-date"> {{ post.created_at|format_date }}</span>
             </p>
           </a>
           <ul class="post-options">
